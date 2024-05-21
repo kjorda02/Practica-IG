@@ -1,0 +1,5 @@
+NO APLICAR ESCALA DE LA CURVA!!!!!!!!!!!!!!
+(se escalará la carretera con el modificador de deformar sobre curva).
+
+Situar eje central de la curva en el origen. Centro de la carretera da igual.
+Desplazar carretera sobre la curva, añadir segmentos en el mod array
