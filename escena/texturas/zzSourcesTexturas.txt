@@ -1,0 +1,7 @@
+
+MONTAÑA: https://www.the3rdsequence.com/texturedb/texture/102/mountain+stone+rock/
+https://www.the3rdsequence.com/texturedb/texture/46/mountain+rock/
+
+CAMINO: https://www.the3rdsequence.com/texturedb/texture/4/ground+rocks/
+HIERBA SECA: https://www.the3rdsequence.com/texturedb/texture/53/dry+grass+ground/
+HIERBA: https://www.the3rdsequence.com/texturedb/texture/1/green+grass/
